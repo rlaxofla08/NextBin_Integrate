@@ -47,4 +47,3 @@ app.get("/user-verification", (req, res) => {
 app.listen(port, () => {
     console.log(`SERVER START ON PORT : ${port}`);
 });
-
